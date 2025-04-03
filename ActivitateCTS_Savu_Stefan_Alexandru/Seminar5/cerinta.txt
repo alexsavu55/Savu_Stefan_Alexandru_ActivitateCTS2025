@@ -1,0 +1,19 @@
+
+Clase cerinta 1
+
+Pacient
+    - arePatRabatabil
+    - areMicDejun
+    - arePapuciDeCamera
+    - areHalat
+    - numePrieten
+
+
+Abstract Builder
+    - getPacient()
+
+
+PacientBuilder
+    - pacient
+    - setteri
+
